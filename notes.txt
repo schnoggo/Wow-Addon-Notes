@@ -1,5 +1,7 @@
 zip stuff for curse:
 zip -r SimpleCoords.zip SimpleCoords -x "SimpleCoords/.svn/*" "SimpleCoords/.git/*" "SimpleCoords/.src/*" "*/.DS_Store" "*/.AppleDB" "*/.AppleDesktop"
+zip -r GuildNick.zip GuildNick -x "GuildNick/.svn/*" "GuildNick/.git/*" "GuildNick/.src/*" "*/.DS_Store" "*/.AppleDB" "*/.AppleDesktop"
+
 
 svn stuff for WowInterface:
 svn ci --username *** --password *** * -m"Updates for Shadowlands"
