@@ -1,0 +1,8 @@
+zip stuff for curse:
+zip -r SimpleCoords.zip SimpleCoords -x "SimpleCoords/.svn/*" "SimpleCoords/.git/*" "SimpleCoords/.src/*" "*/.DS_Store" "*/.AppleDB" "*/.AppleDesktop"
+
+svn stuff for WowInterface:
+svn ci --username *** --password *** * -m"Updates for Shadowlands"
+
+Credentials at https://www.wowinterface.com/svn.php?&p=logininfo
+
