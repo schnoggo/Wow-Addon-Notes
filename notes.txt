@@ -9,4 +9,6 @@ svn ci --username *** --password *** * -m"Updates for Shadowlands"
 Credentials at https://www.wowinterface.com/svn.php?&p=logininfo
 
 Announcements:
-SimpleGold has been updated for #WorldOfWarcraft #Shadowlands pre-patch. Track your wealth across all of your toons. https:bit.ly/simplegold or the twitch/curse downloader.
+SimpleGold has been updated for #WorldOfWarcraft #Shadowlands pre-patch. Track your wealth across all of your toons. https://bit.ly/simplegold or the twitch/curse downloader.
+
+SimpleCoords has been updated for #WorldOfWarcraft #Shadowlands pre-patch. As the name suggests, a very simple coordinate and destination windowfor exploring new lands. https://bit.ly/simplecoords or the twitch/curse downloader.
