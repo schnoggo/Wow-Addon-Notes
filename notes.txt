@@ -13,3 +13,5 @@ Announcements:
 SimpleGold has been updated for #WorldOfWarcraft #Shadowlands pre-patch. Track your wealth across all of your toons. https://bit.ly/simplegold or the twitch/curse downloader.
 
 SimpleCoords has been updated for #WorldOfWarcraft #Shadowlands pre-patch. As the name suggests, a very simple coordinate and destination windowfor exploring new lands. https://bit.ly/simplecoords or the twitch/curse downloader.
+
+SimpleAssist has been updated for #WorldOfWarcraft #Shadowlands pre-patch (9.02). Enables simple key-binds to replace the old /assist macro. Great for fast-moving raids and groups. https://bit.ly/simpleassist or the twitch/curse downloader.
